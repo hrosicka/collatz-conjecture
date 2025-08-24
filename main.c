@@ -1,7 +1,9 @@
 #include <stdio.h>
 
-// Function to compute the Collatz sequence
+// Function to compute the Collatz sequence and find the highest number
 void collatz(long long n) {
+    long long highest_number = n; // Initialize with the starting number
+
     // Prints the starting number
     printf("Collatz sequence for %lld:\n", n);
 
@@ -18,10 +20,18 @@ void collatz(long long n) {
             // Odd number - multiply by three and add one
             n = 3 * n + 1;
         }
+
+        // Checks if the new number is the highest so far
+        if (n > highest_number) {
+            highest_number = n;
+        }
     }
 
     // Prints the final number (1)
     printf("1\n");
+
+    // Prints the highest number reached
+    printf("\nHighest number reached: %lld\n", highest_number);
 }
 
 int main() {
