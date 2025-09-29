@@ -1,5 +1,13 @@
 # Collatz Conjecture
 
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Language](https://img.shields.io/badge/language-C-blue.svg)
+![GitHub stars](https://img.shields.io/github/stars/hrosicka/collatz-conjecture.svg?style=social&label=Star)
+![GitHub issues](https://img.shields.io/github/issues/hrosicka/collatz-conjecture)
+![Repo size](https://img.shields.io/github/repo-size/hrosicka/collatz-conjecture)
+![Last Commit](https://img.shields.io/github/last-commit/hrosicka/collatz-conjecture)
+
 This repository provides a simple C program to explore the Collatz Conjecture. The program computes the Collatz sequence for a user-supplied positive integer and displays both the sequence and the highest number reached during the process.
 
 ## What is the Collatz Conjecture?
