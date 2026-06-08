@@ -1,12 +1,12 @@
 # Collatz Conjecture
 
-
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Language](https://img.shields.io/badge/language-C-blue.svg)
-![GitHub stars](https://img.shields.io/github/stars/hrosicka/collatz-conjecture.svg?style=social&label=Star)
-![GitHub issues](https://img.shields.io/github/issues/hrosicka/collatz-conjecture)
-![Repo size](https://img.shields.io/github/repo-size/hrosicka/collatz-conjecture)
-![Last Commit](https://img.shields.io/github/last-commit/hrosicka/collatz-conjecture)
+![C Language](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Conjecture Formula](https://img.shields.io/badge/Conjecture-3n%20%2B%201-8A2BE2?style=for-the-badge)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/hrosicka/collatz-conjecture?style=for-the-badge&logo=github&color=brightgreen)
+![GitHub Issues](https://img.shields.io/github/issues/hrosicka/collatz-conjecture?style=for-the-badge&logo=github&color=orange)
+![Repo Size](https://img.shields.io/github/repo-size/hrosicka/collatz-conjecture?style=for-the-badge&color=blueviolet)
+![Last Commit](https://img.shields.io/github/last-commit/hrosicka/collatz-conjecture?style=for-the-badge&color=blue)
 
 This repository provides a simple C program to explore the Collatz Conjecture. The program computes the Collatz sequence for a user-supplied positive integer and displays both the sequence and the highest number reached during the process.
 
