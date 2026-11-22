@@ -1,12 +1,35 @@
 # Collatz Conjecture
 
-![C Language](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Conjecture Formula](https://img.shields.io/badge/Conjecture-3n%20%2B%201-8A2BE2?style=for-the-badge)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
-![GitHub Stars](https://img.shields.io/github/stars/hrosicka/collatz-conjecture?style=for-the-badge&logo=github&color=brightgreen)
-![GitHub Issues](https://img.shields.io/github/issues/hrosicka/collatz-conjecture?style=for-the-badge&logo=github&color=orange)
-![Repo Size](https://img.shields.io/github/repo-size/hrosicka/collatz-conjecture?style=for-the-badge&color=blueviolet)
-![Last Commit](https://img.shields.io/github/last-commit/hrosicka/collatz-conjecture?style=for-the-badge&color=blue)
+<div align="center">
+
+  <a href="https://github.com/hrosicka/collatz-conjecture/stargazers">
+    <img src="https://img.shields.io/github/stars/hrosicka/collatz-conjecture?style=for-the-badge&color=4F8EF7&logo=starship&logoColor=white" alt="GitHub Stars" />
+  </a>
+  <a href="https://github.com/hrosicka/collatz-conjecture/network/members">
+    <img src="https://img.shields.io/github/forks/hrosicka/collatz-conjecture?style=for-the-badge&color=4F8EF7&logo=git&logoColor=white" alt="GitHub Forks" />
+  </a>
+  <a href="https://github.com/hrosicka/collatz-conjecture/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/hrosicka/collatz-conjecture?style=for-the-badge&color=4F8EF7&logo=github&logoColor=white" alt="Contributors" />
+  </a>
+  <a href="https://github.com/hrosicka/collatz-conjecture/commits/main">
+    <img src="https://img.shields.io/github/last-commit/hrosicka/collatz-conjecture?style=for-the-badge&color=6366F1&logo=githubactions&logoColor=white" alt="Last Commit" />
+  </a>
+  <a href="https://github.com/hrosicka/collatz-conjecture/issues">
+    <img src="https://img.shields.io/github/issues/hrosicka/collatz-conjecture?style=for-the-badge&color=F59E0B&logo=github&logoColor=white" alt="GitHub Issues" />
+  </a>
+  <br/>
+
+  <img src="https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Language" />
+  <img src="https://img.shields.io/badge/Conjecture-3n%20%2B%201-8A2BE2?style=for-the-badge&logo=functionsquare&logoColor=white" alt="Conjecture Formula" />
+  <img src="https://img.shields.io/badge/Math-Number%20Theory-EC4899?style=for-the-badge&logo=wolframmathematica&logoColor=white" alt="Number Theory" />
+  <img src="https://img.shields.io/github/repo-size/hrosicka/collatz-conjecture?style=for-the-badge&color=3B82F6&logo=files&logoColor=white" alt="Repo Size" />
+  <br/>
+
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-10B981?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="License: MIT" />
+  </a>
+
+</div>
 
 This repository provides a simple C program to explore the Collatz Conjecture. The program computes the Collatz sequence for a user-supplied positive integer and displays both the sequence and the highest number reached during the process.
 
